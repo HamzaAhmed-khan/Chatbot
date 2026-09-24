@@ -8,7 +8,6 @@ A simple **AI-powered chatbot** that allows users to interact with an AI model t
 * 🤖 AI-generated responses
 * ⌨️ Takes real-time user input
 * 🔄 Continuous conversation loop
-* 🛑 Exit the chatbot using commands such as `bye` or `quit`
 * 🔐 API key support using environment variables or secure secrets
 
 ## 🛠️ Technologies Used
