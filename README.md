@@ -143,8 +143,6 @@ Possible improvements include:
 
 **Hamza Ahmed Khan**
 
-BSCS Student | AI & Generative AI Learner
-
 ## 📄 License
 
 This project is created for learning and educational purposes.
