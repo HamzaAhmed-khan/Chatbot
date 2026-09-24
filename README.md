@@ -15,17 +15,7 @@ A simple **AI-powered chatbot** that allows users to interact with an AI model t
 * **Python**
 * **Google Gemini API**
 * **Google GenAI SDK**
-* **Google Colab** / Jupyter Notebook
 
-## 📁 Project Structure
-
-```text
-Chatbot/
-│
-├── chatbot.py
-├── README.md
-└── requirements.txt
-```
 
 ## ⚙️ Installation
 
